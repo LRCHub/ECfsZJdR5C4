@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君色、僕色 Quartet",
+  "base_artist": "鈴木このみ、伊東歌詞太郎、小林裕介、AZKi",
+  "createdAt": "2025-12-11T12:01:14.375116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君色、僕色 Quartet",
+      "artist": "鈴木このみ、伊東歌詞太郎、小林裕介、AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_君色、僕色_Quartet_鈴木このみ、伊東歌詞太郎、小林裕介、AZKi.txt"
+    }
+  ]
+}
